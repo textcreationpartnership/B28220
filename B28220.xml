@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem upon the death of the Queen</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28220</idno><idno type="EEBO-CITATION">15020525_39850</idno>
+  <idno type="VID">39850</idno>
+  <idno type="EEBO-PROQUEST">2264219359</idno>
+  
+            <idno type="STC">Wing P2714A</idno>
+            <idno type="STC">ESTC R35115</idno>
+            <idno type="OCLC">15020525</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39850)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:41 or 1985:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem upon the death of the Queen</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproductions of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:39850:1"/>
+            <head>A POEM UPON THE DEATH OF THE QUEEN.</head>
+            <lg>
+               <l>WHEN our admired Queen <hi>Mary</hi> dies,</l>
+               <l>What Pen can write Her Obsequies?</l>
+               <l>Snatch me a Quill from Angels Wing,</l>
+               <l>I'll tune my Voice to a doleful String:</l>
+               <l>
+                  <hi>Malpomeny</hi> shall guide my Hand,</l>
+               <l>And all the <hi>Muses</hi> round me stand.</l>
+               <l>You nere were needed so before,</l>
+               <l>Your Aid, your Aid I now implore;</l>
+               <l>Stand near me all the Graces too,</l>
+               <l>I would a Eigure make of you.</l>
+               <l>Queen <hi>Mary</hi>'s Mind to represent,</l>
+               <l>I'll joyn you all with pure Cement.</l>
+               <l>Yet this pure Dye or <hi>Tyrian</hi> Paint</l>
+               <l>Will make a Colour far too faint,</l>
+               <l>To Paint Her Body or Her Mind,</l>
+               <l>I must have what is most refin'd.</l>
+               <l>Old Celebrated Poets Graces</l>
+               <l>Had no such Mind, had no such Faces.</l>
+               <l>Such Majesty sat on Her Brow,</l>
+               <l>She made the stubborn Sex to bow.</l>
+               <l>All but Her Conqu'ring <hi>William</hi> She</l>
+               <l>Did make to bow and bend the Knee.</l>
+               <l>Such comely sweetness in Her Smile,</l>
+               <l>But stay my <hi>Muse,</hi> and rest a while,</l>
+               <l>To Sigh and Mourn, to Weep and be</l>
+               <l>Like silent weeping <hi>Niobe.</hi>
+               </l>
+               <l>This Angel now is from us fled,</l>
+               <l>The Consequences most Men dread.</l>
+               <l>Propitious Heaven on us Smile,</l>
+               <l>And Frown no more on this sad Isle.</l>
+               <l>I must return, the Subject's great,</l>
+               <l>My <hi>Muse</hi> would fain sound a Retreat.</l>
+               <l>Oh, how can I define a Soul?</l>
+               <l>If swiftly flies from Pole to Pole:</l>
+               <l>Takes all the various Figure in</l>
+               <l>That are throughout this World of sin,</l>
+               <l>And in the curious Brain they dwell;</l>
+               <l>Have each a Room, have each a Cell.</l>
+               <l>But Her Great <hi>Soul</hi> mounted much higher,</l>
+               <l>Beyond the Earth, beyond the Fire.</l>
+               <l>There She did fix, there she did find</l>
+               <l>Objects that suited best her Mind.</l>
+               <l>With Angels and Arch-Angels She</l>
+               <l>Did joyn in Love and Harmony.</l>
+               <l>She oft before to Heaven was fled,</l>
+               <l>But now we sadly mourn She's dead:</l>
+               <l>She will no more to us return,</l>
+               <l>She how the <hi>Stars</hi> like Torches burn,</l>
+               <l>And strive to light her all they way;</l>
+               <l>But that the <hi>Sun</hi> more bright than they,</l>
+               <l>Conveighs her out of Mortals sight,</l>
+               <l>Mingling Her Beams with his own Light.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
